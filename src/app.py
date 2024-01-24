@@ -3,7 +3,7 @@ from neuron import Neuron
 
 st.set_page_config(layout="wide")
 
-st.image('src/neurona.jpg', width=150)
+st.image('src/neurona.jpg', width=250)
 
 st.header('Simulador de neurona')
 
